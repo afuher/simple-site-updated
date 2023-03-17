@@ -93,21 +93,20 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "
+           About Me
+           "
+    text: "
+          As a seasoned data scientist located in Seattle, Washington, I am thrilled to share my expertise and capabilities with you. With 8 years of experience in engineering and data, complemented by an M.S. in Analytics from the Georgia Institute of Technology, I have amassed a wealth of knowledge and skills to address complex data-driven challenges.
+          Throughout my career, I have tackled diverse projects spanning nuclear waste, hypersonics, and explosive detection systems using computational tomography. These experiences have equipped me with invaluable insights into data collection and analysis, enabling me to provide innovative and effective solutions to clients.
+          "
+    subtext: "
+             As a lifelong learner, I am passionate about exploring novel approaches to difficult problems. Freelancing provides an ideal opportunity for me to expand my knowledge base, foster lasting connections, and utilize my skill set to help clients achieve their goals.
+             Whether your organization faces a small or large data challenge, I am eager to discuss how I can help you reach a successful outcome. Please do not hesitate to contact me to explore the possibilities.
+             "
     section: team
     people:
-      - name: 
-        role: 
-        image: 
-        social:
-          - url: 
-            icon: 
-          - url: 
-            icon: 
-          - url: 
-            icon: 
+
       - name: "Larry Parker"
         role: "Lead Marketer"
         image: assets/img/team/2.jpg
@@ -118,16 +117,7 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: ""
-        role: ""
-        image: 
-        social:
-          - url: 
-            icon: 
-          - url: 
-            icon: 
-          - url: 
-            icon: 
+
 
   contact:
     title: "Contact Us"
