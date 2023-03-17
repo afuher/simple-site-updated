@@ -96,19 +96,17 @@ en: &DEFAULT_EN
     title: "
            About Me
            "
-    text: "
-          As a seasoned data scientist located in Seattle, Washington, I am thrilled to share my expertise and capabilities with you. With 8 years of experience in engineering and data, complemented by an M.S. in Analytics from the Georgia Institute of Technology, I have amassed a wealth of knowledge and skills to address complex data-driven challenges.
-          Throughout my career, I have tackled diverse projects spanning nuclear waste, hypersonics, and explosive detection systems using computational tomography. These experiences have equipped me with invaluable insights into data collection and analysis, enabling me to provide innovative and effective solutions to clients.
-          "
+    text: ""
     subtext: "
+             As a seasoned data scientist located in Seattle, Washington, I am thrilled to share my expertise and capabilities with you. With 8 years of experience in engineering and data, complemented by an M.S. in Analytics from the Georgia Institute of Technology, I have amassed a wealth of knowledge and skills to address complex data-driven challenges.
+             Throughout my career, I have tackled diverse projects spanning nuclear waste, hypersonics, and explosive detection systems using computational tomography. These experiences have equipped me with invaluable insights into data collection and analysis, enabling me to provide innovative and effective solutions to clients.
              As a lifelong learner, I am passionate about exploring novel approaches to difficult problems. Freelancing provides an ideal opportunity for me to expand my knowledge base, foster lasting connections, and utilize my skill set to help clients achieve their goals.
              Whether your organization faces a small or large data challenge, I am eager to discuss how I can help you reach a successful outcome. Please do not hesitate to contact me to explore the possibilities.
              "
     section: team
     people:
-
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "Arich Fuher"
+        role: "Data Scientist"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -121,7 +119,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Expect a Response within 24 to 48 Hours"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
